@@ -19,8 +19,6 @@ Es el programa principal que arranca las cuatro descargas a la vez y las espera.
 
 #### Tabla Descargas:
 
-### Tabla Descargas
-
 | Ejecución | Descarga más lenta        |    Tiempo real (ms)    |    Suma (ms)     |
 | :---: |:--------------------------|:----------------------:|:----------------:|
 | 1 | [horoscopo.pdf]  3752 ms  |        3778 ms         |     12173 ms     |
